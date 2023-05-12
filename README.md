@@ -1,5 +1,3 @@
-# Test
-
 Inquit, sic agam, ut ipsi auctori huius disciplinae placet: constituam, quid et
 quale sit id, de quo quaerimus, non quo ignorare vos arbitrer, sed ut ratione
 et via procedat oratio. Quaerimus igitur, quid sit extremum et ultimum bonorum,
